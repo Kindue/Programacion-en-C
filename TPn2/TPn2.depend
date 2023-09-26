@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1694650910 source:e:\villa\codeblocks\workspace\tpn2\main.c
+1695511960 source:e:\villa\codeblocks\workspace\tpn2\main.c
 	<stdio.h>
 	<stddef.h>
 
-1694650968 source:e:\villa\codeblocks\workspace\tpn2\resolucion.c
+1695511941 source:e:\villa\codeblocks\workspace\tpn2\resolucion.c
 	<stdlib.h>
+	<stdio.h>
 
